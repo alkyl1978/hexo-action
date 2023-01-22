@@ -1,4 +1,4 @@
-FROM node:12-buster-slim
+FROM node:18-buster-slim
 
 LABEL version="1.0.3"
 LABEL repository="https://github.com/alkyl1978/hexo-action"
